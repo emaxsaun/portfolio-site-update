@@ -8,9 +8,6 @@ var plugins = [{
       plugin: require('/Users/efeldman/Desktop/react/gatsby/node_modules/gatsby-plugin-theme-ui/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/efeldman/Desktop/react/gatsby/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
-      options: {"plugins":[]},
-    },{
       plugin: require('/Users/efeldman/Desktop/react/gatsby/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"Cara - @lekoarts/gatsby-theme-cara","short_name":"Cara","description":"Playful and Colorful One-Page portfolio featuring Parallax effects and animations","start_url":"/","background_color":"#141821","theme_color":"#f6ad55","display":"standalone"},
     },{
