@@ -1,0 +1,41 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-342c3d548a2e3bdb7bf4.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-gatsby-plugin-offline-app-shell-js-cf607d6433cc95b5fc82.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-c7affdad1c8e67570480.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-7e127b281060aec365c4.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.0a85d6b4263eb696ec6e.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-1eecba769d78e7130a47.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-f1f8a7ea7ac3cfcf7346.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/
+  Link: </webpack-runtime-c7affdad1c8e67570480.js>; rel=preload; as=script
+  Link: </framework-7e127b281060aec365c4.js>; rel=preload; as=script
+  Link: </styles-1eecba769d78e7130a47.js>; rel=preload; as=script
+  Link: </app-f1f8a7ea7ac3cfcf7346.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-342c3d548a2e3bdb7bf4.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-c7affdad1c8e67570480.js>; rel=preload; as=script
+  Link: </framework-7e127b281060aec365c4.js>; rel=preload; as=script
+  Link: </styles-1eecba769d78e7130a47.js>; rel=preload; as=script
+  Link: </app-f1f8a7ea7ac3cfcf7346.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-cf607d6433cc95b5fc82.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
