@@ -39,8 +39,24 @@
     top: 100px;
 }
 
+.css-1rzy3ls {
+    visibility: hidden !important;
+}
+
+.css-1rzy3ls button {
+    visibility: visible !important;
+    position: relative;
+    top: 100px;
+}
+
 @media only screen and (min-width:375px) and (max-device-width : 812px) { 
     a[class*="Card"] {
+        width: 345px;
+    }
+}
+
+@media only screen and (min-width:375px) and (max-device-width : 812px) { 
+    .css-1qho0ff {
         width: 345px;
     }
 }
@@ -52,7 +68,20 @@
 }
 
 @media only screen and (min-width:375px) and (max-device-width : 812px) { 
+    .css-1lbpowx {
+        margin-top: 350px;
+    }
+}
+
+@media only screen and (min-width:375px) and (max-device-width : 812px) { 
     div.css-1jkhirs-Content > div > h2 {
+        position: relative;
+        top: 25px;
+    }
+}
+
+@media only screen and (min-width:375px) and (max-device-width : 812px) { 
+    div.css-hlt6ub > div > h2 {
         position: relative;
         top: 25px;
     }
@@ -66,7 +95,20 @@
 }
 
 @media only screen and (min-width:375px) and (max-device-width : 812px) { 
+    div:nth-child(4) > div.css-hlt6ub > div > h2 {
+        position: relative;
+        top: 0px;
+    }
+}
+
+@media only screen and (min-width:375px) and (max-device-width : 812px) { 
     .css-xr4zsl-ProjectCard {
+        word-break: break-all;
+    }
+}
+
+@media only screen and (min-width:375px) and (max-device-width : 812px) { 
+    .css-1qho0ff {
         word-break: break-all;
     }
 }
