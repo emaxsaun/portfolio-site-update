@@ -29,6 +29,16 @@
     top: 100px;
 }
 
+.css-ql46br {
+    visibility: hidden !important;
+}
+
+.css-ql46br button {
+    visibility: visible !important;
+    position: relative;
+    top: 100px;
+}
+
 .css-1al083j-Footer {
     visibility: hidden !important;
 }
