@@ -9795,8 +9795,8 @@ tar-stream@^2.0.0:
     readable-stream "^3.1.1"
 
 tar@^6.0.1:
-  version "6.1.4"
-  resolved "https://registry.yarnpkg.com/tar/-/tar-6.1.4.tgz#9f0722b772a5e00dba7d52e1923b37a7ec3799b3"
+  version "6.1.11"
+  resolved "https://registry.yarnpkg.com/tar/-/tar-6.1.11.tgz#6760a38f003afa1b2ffd0ffe9e9abbd0eab3d621"
   dependencies:
     chownr "^2.0.0"
     fs-minipass "^2.0.0"
